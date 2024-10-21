@@ -5,7 +5,6 @@ package org.example;
   @project   lab3
   @class  Company
   @version  1.0.0
-  @since 28.09.2024 - 17.44
 */
 
 public class Company {
