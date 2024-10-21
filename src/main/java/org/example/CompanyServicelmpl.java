@@ -8,7 +8,6 @@ import java.util.List;
   @project   lab3
   @class  CompanyServiceImpl
   @version  1.0.0
-  @since 28.09.2024 - 17.45
 */
 
 public class CompanyServicelmpl implements ICompanyService {
